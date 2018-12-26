@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/xananax
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://xananax.com
+  * I am xananax (https://keybase.io/xananax) on keybase.
+  * I have a public key with fingerprint FCD5 BAD1 1CCD DDEE FC91  BDE4 63BD DA1F 2D17 CAEF
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010121c34f32dbd07c43ba141c6851e185e02f920db5b0813d5a559e391a7a59671d0a",
+      "fingerprint": "fcd5bad11ccdddeefc91bde463bdda1f2d17caef",
+      "host": "keybase.io",
+      "key_id": "63bdda1f2d17caef",
+      "kid": "010121c34f32dbd07c43ba141c6851e185e02f920db5b0813d5a559e391a7a59671d0a",
+      "uid": "60bd44784c2962779da798e1aa32b419",
+      "username": "xananax"
+    },
+    "service": {
+      "hostname": "xananax.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1545845053,
+  "expire_in": 157680000,
+  "prev": "8e200a60bddc922f9d705d4c0f8dbae58caafbb6f90543f6bcd1b02931fead6c",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtUltIFVEUvZqhXrGXZJFZNIIYmZ0zM2ceNywMIfAnJTCj6HJeo4M6c7v3+sL8
+6E+LWxm9TCOoNIogCvpIsX4ysicVRUVWZGGSaRJKklFnrD6CPjvn47D3WWvttTf7
+QOosX1Ic7X2xfPWi22Nxd4aJb3vW1YJGibisQQo0SpV85uFVjEeiwUqbSQEJQABl
+SBXVUmRGGNCpqhAMVUg1A0EODcSBbJkyYAQRYECFIYyQyRUTYh0jU9MhA1jKlSzb
+KefhUNh2okLWogwRzCCklDHGuUVNSBhXNYUwhqElM6hTzC1BrHAjHkOYIzjC82xX
+5EQQnLH3D/x/9l3zqw4gTFV1Q6Wyqcm6bjKsmwaHGCsyUaHpASM87OBqLtD12BG3
+XmrKlUSy1qbcm6vXyN+APOpWC2Yo7EZd6laJj4poNBQJeMRoQ8hD1nES/K0RJLbD
+xBQFo5aHI7brSAEokDRqe6IQqchQEUBKrsTrQ3aYB20PgXTNAOJ4dXitkDS4DAAW
+HZUyRk1ZTIHpADGVAstgBHNkUIwtQjTLBEhVLI1QBgmQTQVaHDONSl5bOx1XCmjC
+Jy4XmhG73MHRmjCXmvwtcUqCLy7Jl5m+ImH6SffDpfcGRqdbe9/92bzZ8d7a+fzJ
+8/5kXp5N/L7gy0F/1tyjTSdu7WlO/LGrQNlbGCvqeHWttatZH3v41SnZ5SJ+auuT
+6okbgxllA5P35wx9m+/vyx8805MOisezQ4360qN3F/dt4oUn2c3G9QeubFy1LiP/
+8pv4ZdeXrCttfvY6vXNkYO5NltPevXCoo+3a1Lm6tNNVKQdVeN4Ib+mKrXobo+2L
+JmctPF/pv1ycW+CLRd4dGr8xNJI0fKw98+LaE58aZvcPd36Mrbeqs3LaeHb/50dv
+LzyeOp5cxE7t35F6+My2vSklI4lHfIPJ8Q/unG79kNndXFbUkKaO7tZRR/xw0fvn
+Ty/07Muf6Nj3KrFlZVlxydZtl1Kf5mzuW7Ph9uaf
+=fq5U
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/xananax
+
+==================================================================
